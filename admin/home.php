@@ -90,7 +90,7 @@ $astat = array("Not Yet Started", "On-going", "Closed");
   <div class="col-12 col-sm-6 col-md-4">
     <div class="small-box bg-light shadow-sm border">
       <div class="inner">
-        <h3><?php echo $conn->query("SELECT * FROM subject_list")->num_rows; ?></h3>
+        <h3><?php echo 22 ?></h3>
         <p>Total Subjects</p>
       </div>
       <div class="icon">
